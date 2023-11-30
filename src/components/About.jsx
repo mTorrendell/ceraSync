@@ -1,12 +1,11 @@
-// import { useState } from "react";
+import React from "react";
 import "./styles/About.css";
 
 function About() {
   return (
     <>
-      <h1 className="title">About</h1>
-      
-      <p>Hello our name is</p>
+      <h6>Meet our team</h6>
+      <h2>About us</h2>
     </>
   );
 }

@@ -1,0 +1,14 @@
+.title-header {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: "Montserrat";
+  color: #a96c73;
+  text-align: center;
+}
+
+.line {
+  background-color: #a96c73;
+  margin-left: 40px;
+  margin-right: 40px;
+}
